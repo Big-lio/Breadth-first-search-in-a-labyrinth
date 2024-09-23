@@ -2,4 +2,4 @@
 
 https://klevas.mif.vu.lt/~cyras/AI/ai-cyras.pdf
 
-Slides: 37-42
+Slides: 37-42.
